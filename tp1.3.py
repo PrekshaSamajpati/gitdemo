@@ -1,3 +1,4 @@
+#This will produce a conflict
 class P2:
 
     def input(self):
