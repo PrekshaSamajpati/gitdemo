@@ -1,3 +1,4 @@
+#this will produce a conflict
 hash_table = [[], [], [], [], [], [], [], [], [], []]
 n=int(input("Enter number of elements"))
 for i in range(n):
