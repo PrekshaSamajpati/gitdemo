@@ -1,3 +1,4 @@
+#This is prctice
 class P2:
     def input(self):
         self.x = int(input("Type a number: "))
